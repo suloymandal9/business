@@ -1,9 +1,8 @@
-package com.ecom.business.model;
+package model;
 
 import jakarta.persistence.*;
 //import jdk.jfr.Category;
 
-import com.ecom.business.model.Category;
 import lombok.Data;
 
 @Entity
